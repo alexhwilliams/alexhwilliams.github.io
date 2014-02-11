@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title: "Alex H Williams"
-tagline: "Alex H Williams"
+title: "Alex Williams"
+tagline: "a blog"
 author : 
   name :  Alex H Williams
   email: "alexhwilliams@gmail.com"
