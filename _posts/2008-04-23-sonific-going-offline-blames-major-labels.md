@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'Sonific Going Offline: Blames Major Labels'
+date: '2008-04-23T06:43:51-07:00'
+tags:
+- widgets
+- music widgets
+- sonific
+- TechCrunch Dead Pool
+tumblr_url: http://alexhwilliams.tumblr.com/post/32628339/sonific-going-offline-blames-major-labels
+---
+<p><img src="http://sonific.com/images/sonific_images/Sonific_Sig_DARK180.gif" height="50" width="180"/></p><p>Gerd Leonhart is pulling the plug on <a href="http://www.sonific.com/">Sonific</a> starting May 1. </p><p>Sonific offered a &#8220;play list&#8221; widget to place on your blog, web site or social network page. Sonific was founded in 2005. The intent was to build a company that offered a music catalog for non-commercial and commercial usage.  The company had the added stated goal of developing licensed products and services. </p><p>In his <a href="http://www.typepad.com/t/trackback/19581/28321514">blog</a> and a separate letter, Gerd cited the reasons why the service is being discontinued or at least, being put on hold.</p><p>He casts most of the blame on the music industry and the major labels insistence on up front licensing fees, major equity stakes in the company and usage restrictions:</p><blockquote><p>However, when we approached the major record label decision makers in order to obtain licenses for some of the music in their catalogs we have routinely faced demands for very large cash advances and fixed per-stream minimum payments,  pressure to give them &#8216;free&#8217; company equity, and requirements of utterly bizarre usage restrictions.  </p></blockquote><p> I can see this as a major impediment but it appears that Sonific did try to pursue multiple businesses. They tried to be a music widget company. They offered licensing services. </p><p>And they were in a crowded market. <a href="http://www.gydget.com/my_widget/">Gydget</a>, <a href="http://www.last.fm/widgets/">Last.FM</a> and a ost of other services like <a href="http://ilike.com/">ilike</a> all compete for attention on blogs and now even more so, on social networks. </p><p>On the licensing side, companies like <a href="http://www.rumblefish.com/">Rumblefish</a> are fully dedicated to &#8220;music branding.&#8221; It&#8217;s their core business and they are well-established in the commercial  market.</p><p>Looks like Sonific has been added to the <a href="http://www.techcrunch.com/2008/04/21/sonific-heading-to-the-deadpool-record-labels-blamed/">dead pool</a>.</p>

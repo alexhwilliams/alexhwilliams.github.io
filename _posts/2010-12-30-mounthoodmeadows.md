@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Mount Hood Meadows: You Need More People in the Remote Parking Lots'
+date: '2010-12-30T11:20:00-08:00'
+tags:
+- mount hood meadows
+tumblr_url: http://alexhwilliams.tumblr.com/post/2530403398/mounthoodmeadows
+---
+<p>We went up to <a href="http://www.skihood.com/">Mount Hood Meadows</a> yesterday, a ski/snowboard destination on Oregon&#8217;s Mount Hood. We had great snow and a wonderful time. But it was cold. The temperature did not climb higher than 18 degrees.<br/><br/>Meadows does a great job on the mountain. But the safety of its customers does not seem to be taken into consideration as much out in the remote parking lots. They need more people out there in the late afternoon and evenings, especially when the temperatures are falling and people are cold and tired from a long day on the mountain.<br/><br/>We returned to our remote lot on a shuttle bus. We saw people having car problems. I had a feeling our old Volvo would be likely to have problems, too. Sure enough, we discovered that the locks on our car had frozen. We waited for a good hour for an attendant. His de-icing liquid did not work. He left to get hot water. We waited for another hour. We were not alone. There were dozens of other people just like us spread across two remote parking lots with car problems related to the cold and snow. <br/><br/>The attendant was polite but he was ready to leave us out in the cold again if we were stil having issues. Luckily, we were able to open the car and soon started on our way back to Portland.<br/><br/>Meadows should have at least had one more truck helping people on cold days like the one we had yesterday. We had to wait longer in the cold because there were not enough staff to help all the people having issues.  </p>
+<p>Further Meadows needs to have an energency extension on its voice recording when calling the resort. There is not that option now when you call. </p>
+<p>Meadows had no dedicated shelter for the people in the remote lots who were having car problems. A warm bus for people waiting for help would be sufficient.<br/>One of the drivers did let us sit on the bus for a while but for the most part we had to wait outside as the temperatures dropped. While we waited on the bus, my son&#8217;s friend had his helmet stolen that he had left on the roof of the car. That was a bummer.<br/><br/>The staff at Mount Hood Meadows are helpful and polite. But it&#8217;s clear they were not prepared yesterday to help their customers as they headed on their way home.<br/>We learned a few things, too, about frozen locks. Here are some tips:</p>
+<ul><li><span>Carry a lighter to heat your key in case the lock is froze. Heat the key with the lighter.</span></li>
+<li><span>Hot water does work when you pour it over the lock.</span></li>
+<li><span>De-icing liquid did not work for us. You may have better luck. We did not.</span></li>
+</ul><p>I will go back to Meadows. We love skiing there. I just hope management looks more closely at how it staffs remote parking lots when night falls and the temperatures drop.<br/><br/><br/><br/></p>

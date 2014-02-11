@@ -1,0 +1,8 @@
+---
+layout: post
+title: In Web World of 24/7 Stress, Writers Blog Till They Drop - New York Times
+date: '2008-04-06T16:08:40-07:00'
+tags: 
+tumblr_url: http://alexhwilliams.tumblr.com/post/30981857/in-web-world-of-24-7-stress-writers-blog-till-they
+---
+<a href="http://www.nytimes.com/2008/04/06/technology/06sweat.html?_r=1&ei=5088&en=b9031b1ab51405e4&ex=1365134400&partner=rssnyt&emc=rss&pagewanted=all&pagewanted=all&oref=slogin">In Web World of 24/7 Stress, Writers Blog Till They Drop - New York Times</a><br/><p>The headline is what gets me. Blogging is intensely competitive. But there have been plenty of reporters who have driven themselves to the point of collapse. Investment bankers work endless hours. Where is the drop dead story about them?  I miss my friend, Russell Shaw. I hate to see his death used by the Times in such a sloppy way.</p><p>I see other bloggers who work long, grueling hours.  But it is the intellectual aspects of what they do that drives them as much as the need to support themselves. They write about the new developments in the media infrastructure, the ever evolving communications systems and the platform wars that will determine how open the Internet remains. As <a href="http://www.alleyinsider.com/2008/4/bloggers_dropping_dead_nyt_spots_alarming_new_trend_">Henry Blodge</a>t writes, it&#8217;s challenging, thoughtful work.  </p><p> Are bloggers driving themselves to death? Is blogging some crack? So foolish.   </p> <p>Sometimes, I see these kinds of articles about bloggers and just wonder how much those newspaper reporters, editors and headline writers are just trying in some futile way to protect their jobs.</p><p> </p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: User Acquisition, from the trenches
+date: '2014-02-06T03:47:32-08:00'
+tags: 
+tumblr_url: http://alexhwilliams.tumblr.com/post/75789380858/user-acquisition-from-the-trenches
+---
+<a href="http://blog.hrck.ca/post/75737598813/user-acquisition-from-the-trenches">User Acquisition, from the trenches</a><br/><p><a class="tumblr_blog" href="http://blog.hrck.ca/post/75737598813/user-acquisition-from-the-trenches">mrmch</a>:</p>
+
+<blockquote>
+<p>(This post is inspired by a question I received on producthunt.co (<a href="http://www.producthunt.co/posts/1238">original link</a>). A few people found it valuable, so I thought I might repost it with more context.) <strong>Edit</strong>: some conversation on <a href="https://news.ycombinator.com/item?id=7187813">hacker news</a></p>
+<p><a href="https://www.sendwithus.com">Sendwithus</a> is a startup, 11 months in, and (like any startup), our primary challenge…</p>
+</blockquote>
