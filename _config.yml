@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title: "Alex Williams"
-tagline: "Alex Williams"
+tagline: "Exploring the New Stack"
 author : 
   name :  Alex Williams
   email: "alexhwilliams@gmail.com"
-  twitter : 
+  twitter : @alexwilliams
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
