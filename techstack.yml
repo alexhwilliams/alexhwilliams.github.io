@@ -1,0 +1,54 @@
+repo_name: alexhwilliams/alexhwilliams.github.io
+report_id: 70dd9a5133f5c6c8d56039785172d8be
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-04T16:03:15+00:00'
+requested_by: alexhwilliams
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/alexhwilliams/alexhwilliams.github.io
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/alexhwilliams/alexhwilliams.github.io/blob/master/assets/js/bootstrap.js
+  detection_source: assets/js/bootstrap.js
+  last_updated_by: Chris Dawson
+  last_updated_on: 2014-02-11 04:09:18.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/alexhwilliams/alexhwilliams.github.io
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/alexhwilliams/alexhwilliams.github.io
+  detection_source: Repo Metadata
